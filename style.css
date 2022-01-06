@@ -1,0 +1,18 @@
+body{
+    font-family: 'Playfair Display', serif;
+    margin: 0px;
+    padding: 0px;
+}
+.orange{
+    color: orange;
+}
+h1{
+    font-size: 40px;
+   border-left: 4px solid salmon;
+   margin-left: 20px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 4%;
+    font-weight: 600;
+}
