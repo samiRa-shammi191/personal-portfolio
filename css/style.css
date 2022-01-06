@@ -86,7 +86,7 @@ body{
     background-position:90%  100%;
     background-size: 10%;
 }
-.container{
+.new-container{
     max-width: 1170px;
     margin: auto;
    
@@ -140,7 +140,7 @@ margin-bottom: 10px;
     font-weight: 300;
     color: #bbbbbb;
     display: block;
-    transition: all 0.3s ease;
+    
 
 }
 .footer-col ul li a:hover{
@@ -157,13 +157,24 @@ margin-bottom: 10px;
    line-height: 65px;
    border-radius: 50%;
    color: #ffffff;
-   transition: all 0.5s ease;
+   
 
 }
 
 .footer-col .social-links a:hover{
     color: #24252b;
     background-color: #ffffff;
+}
+.foot{
+    color: palevioletred;
+}
+.last-part{
+    font-size: 15px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 98.7%;
+    padding: 8px;
 }
 
 
