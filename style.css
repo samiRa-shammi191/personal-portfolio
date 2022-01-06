@@ -1,7 +1,7 @@
 body{
     font-family: 'Playfair Display', serif;
     margin: 0px;
-    padding: 0px;
+   
 }
 .orange{
     color: orange;
@@ -31,3 +31,44 @@ h1{
     font-weight: 700;
     border-radius: 5px;
 }
+.navy{
+    color: navy;
+ 
+}
+.center{
+    text-align: center;
+    font-size: 40px;
+}
+.mission {
+    border-radius: 25px;
+    width:29%;
+    display: inline-block;
+    background-color: skyblue;
+    margin-left: 15px;
+  
+  }
+  .vision {
+    border-radius: 25px;
+         width:31%;
+         display: inline-block;
+         background-color:palevioletred;
+         margin-left: 30px;
+  }
+  .goals{
+      border-radius: 25px;
+         width:33%;
+         display: inline-block;
+         background-color:plum;
+         margin-left: 30px;
+         
+         
+  }
+  .container {
+    padding: 20px 16px;
+  }
+  .img-responsive{
+    width:33.33%;
+    margin-left: 10px;
+}
+
+
