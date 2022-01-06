@@ -15,6 +15,7 @@ body{
 .half-width{
     width: 50%;
     padding-left: 5%;
+    margin-bottom: 60px;
  
    
 }
@@ -79,6 +80,13 @@ body{
     font-family:sans-serif;
    
 }
+.bg-img{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:90%  100%;
+    background-size: 10%;
+}
+
 
 
 
