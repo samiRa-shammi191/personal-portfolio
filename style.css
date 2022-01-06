@@ -8,11 +8,26 @@ body{
 }
 h1{
     font-size: 40px;
-   border-left: 4px solid salmon;
-   margin-left: 20px;
+   border-left: 3px solid salmon;
+   margin-left: 8px;
 }
 .half-width{
     width: 50%;
     margin-left: 4%;
     font-weight: 600;
+}
+.half-width img{
+    width: 80%;
+}
+.flexible-container{
+    display: flex;
+    margin-left: 20px;
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(salmon,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
 }
