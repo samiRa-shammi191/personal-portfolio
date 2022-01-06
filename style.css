@@ -6,22 +6,25 @@ body{
 .orange{
     color: orange;
 }
-h1{
+
+.border{
+    border-left: 3px solid salmon;
     font-size: 40px;
-   border-left: 3px solid salmon;
-   margin-left: 8px;
+    margin-left: 8px;
 }
 .half-width{
     width: 50%;
-    margin-left: 4%;
-    font-weight: 600;
+    padding-left: 5%;
+ 
+   
 }
 .half-width img{
-    width: 80%;
+    width: 60%;
+    margin-left: 10%;
 }
 .flexible-container{
     display: flex;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 .link-btn{
     text-decoration: none;
@@ -60,6 +63,7 @@ h1{
          display: inline-block;
          background-color:plum;
          margin-left: 30px;
+         margin-bottom: 80px;
          
          
   }
@@ -70,5 +74,12 @@ h1{
     width:33.33%;
     margin-left: 10px;
 }
+.dev{
+    font-weight: 400;
+    font-family:sans-serif;
+   
+}
+
+
 
 
